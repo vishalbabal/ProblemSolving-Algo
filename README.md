@@ -1,1 +1,1 @@
-# Problem_Solving-Algo
+# ProblemSolving-Algo
